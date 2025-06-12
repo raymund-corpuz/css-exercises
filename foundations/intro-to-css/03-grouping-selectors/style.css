@@ -1,0 +1,12 @@
+.Yes-Click {
+  background-color: black;
+  color: white;
+}
+.No-Click {
+  background-color: yellow;
+}
+
+.Yes-Click .No-Click {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
